@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hello! I'm Nguyen Duc Hai Van</h1>
 <h3 align="center">💻 A passionate Backend Developer | Aspiring Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Backend+Developer+(.NET);Loves+clean+code+%26+scalable+APIs;Always+learning+new+tech" alt="Typing SVG" />
-</p>
+
 
 ---
 
@@ -16,12 +14,27 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-```bash
-💻 Languages:      C#, Java, JavaScript, SQL
-🧰 Frameworks:     ASP.NET Core, Entity Framework Core, Razor Pages, ReactJS, VueJS
-🛢️ Databases:      MS SQL Server
-⚙️ Tools:          Git, Postman, Swagger, LINQ
-🔒 Auth:           JWT, OAuth 2.0
-📦 DevOps:         GitHub Actions (basic), Docker (learning)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=van-is-me&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=van-is-me&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-is-me&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🛠️ Tech Stack
+
+| Category       | Technologies                                                                 |
+|----------------|-------------------------------------------------------------------------------|
+| 💻 Languages    | C#, Java, JavaScript, SQL                                                    |
+| 🧱 Frameworks   | ASP.NET Core, Entity Framework, Razor Pages, ReactJS, VueJS                 |
+| 🗄️ Databases    | MS SQL Server, MongoDB (basic)                                               |
+| 🛠️ Tools        | Git, Postman, Swagger, LINQ                                                  |
+| 🔐 Auth        | JWT, OAuth 2.0                                                               |
+| 🚀 DevOps      | GitHub Actions (basic), Docker (learning)                                   |
