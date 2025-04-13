@@ -5,12 +5,11 @@
 
 ---
 
-### 👨‍💻 About Me
+## 🏆 GitHub Profile Trophy
 
-- 🎓 Graduated in Software Engineering from FPT University  
-- 💼 Internship experience at FPT Software and Amazing Tech Company  
-- 🔭 I have developed several full-stack projects using **ASP.NET Core** and **React/VueJS**
-- ✨ Love clean code, good architecture, and solving real-world problems with tech
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=van-is-me&theme=algolia&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
