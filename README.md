@@ -8,7 +8,15 @@
 ## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanngdh&theme=algolia&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanngdh&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vanngdh&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanngdh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
