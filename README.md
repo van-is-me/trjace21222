@@ -8,7 +8,7 @@
 ## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=van-is-me&theme=algolia&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vanngdh&theme=algolia&margin-w=15&margin-h=15" />
 </p>
 
 ---
