@@ -9,8 +9,10 @@ You said:
 ## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanngdh&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=van-is-me&theme=radical" alt="GitHub Profile Trophy" />
 </p>
+
+
 
 ---
 
